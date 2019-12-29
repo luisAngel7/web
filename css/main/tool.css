@@ -1,0 +1,26 @@
+#tool{
+  width: 100%;
+}
+
+#tool article{
+  text-align: center;
+  width: 100%; 
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+#tool .html5 i{
+  color: orange;
+  font-size: 4rem;
+}
+
+#tool .linux i{
+  color: #333;
+  font-size: 4rem;
+}
+
+#tool .javascript i{
+  background-color: #000;
+  color: yellow;
+  font-size: 4rem;
+}

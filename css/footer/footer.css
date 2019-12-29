@@ -1,0 +1,31 @@
+.main-footer{
+  background-color: #333;
+  padding: 15px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-footer p{
+  text-align: center;
+}
+
+.main-footer ul{
+ margin-bottom: 15px; 
+}
+
+.main-footer ul li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+.main-footer ul li a{
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.main-footer ul li i{
+  margin-right: 10px;
+}
+
+
