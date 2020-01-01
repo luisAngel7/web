@@ -1,5 +1,7 @@
 #tool{
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #tool article{
@@ -7,6 +9,7 @@
   width: 100%; 
   margin-bottom: 10px;
   padding: 20px;
+  box-shadow: inset 0.3em 0.3em 0.9em black;
 }
 
 #tool .html5 i{
@@ -22,5 +25,6 @@
 #tool .javascript i{
   background-color: #000;
   color: yellow;
+  border: 1px solid #000;
   font-size: 4rem;
 }
